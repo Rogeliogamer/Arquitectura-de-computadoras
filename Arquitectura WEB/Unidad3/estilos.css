@@ -1,0 +1,282 @@
+#pie {
+    background-color: #1A78AD;
+    float: left;
+    width: 50%;
+}
+
+#pie2 {
+    background-color: #1A78AD;
+    float: left;
+    width: 50%;
+}
+
+#contacto {
+    text-align: center;
+    color: white;
+}
+
+#tamano-logo-contacto {
+    width="50px";
+    height="50px";
+}
+
+#titulo {
+    text-align: center;
+    color: black;
+    font-family: monospace;
+    font-size: 35px;
+    text-decoration: underline;
+    text-shadow: 3px 2px 3px blue;
+}
+
+#pie-pagina {
+    float: left;
+    width: 100%;
+    background-color: #1A78AD;
+}
+
+#encabezado {
+    float: left;
+    width: 100%;
+}
+
+#enca1 {
+    float: left;
+    width: 10%;
+}
+
+#enca2 {
+    float: left;
+    width: 75%;
+}
+
+#info {
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+
+/*Css para el menu*/
+* {
+    padding: 09x;
+    margin: 0px;
+}
+
+#header {
+    margin: auto;
+    width: 680px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+.nav li a {
+    background-color: #1A78AD;
+    color: #FFF;
+    text-decoration: none;
+    padding: 12px 22px;
+    display: block;
+}
+
+.nav li a:hover {
+    background-color: #434343;
+}
+
+.nav > li {
+    float: left;
+}
+
+.nav li ul {
+    display: none;
+    position: absolute;
+    min-width: 140px;
+}
+
+.nav li:hover > ul {
+    display: block;
+}
+
+.nav li ul li {
+    position: relative;
+}
+
+.nav li ul li ul {
+    right: -240px;
+    top: 30px;
+}
+
+/*Termina Css del menu*/
+
+#header2 {
+    margin: auto;
+    width: 1240px;
+}
+
+#header3 {
+    margin: auto;
+    width: 1240px;
+}
+
+#header4 {
+    margin: auto;
+    width: 21%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header5 {
+    margin: auto;
+    width: 1240px;
+}
+
+#header6 {
+    margin: auto;
+    width: 1080px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header7 {
+    margin: auto;
+    width: 800px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header8 {
+    margin: auto;
+    width: 1300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header9 {
+    margin: auto;
+    width: 900px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header10 {
+    margin: auto;
+    width: 370px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header11 {
+    margin: auto;
+    width: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header12 {
+    margin: auto;
+    width: 1150px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header13 {
+    margin: auto;
+    width: 1300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header14 {
+    margin: auto;
+    width: 1800px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header15 {
+    margin: auto;
+    width: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header16 {
+    margin: auto;
+    width: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header17 {
+    margin: auto;
+    width: 1300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header18 {
+    margin: auto;
+    width: 800px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header19 {
+    margin: auto;
+    width: 680px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header20 {
+    margin: auto;
+    width: 520px;
+}
+
+#header21 {
+    margin: auto;
+    width: 680px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header22 {
+    margin: auto;
+    width: 1150px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#tabla1 {
+    float: left;
+    width: 50%;
+}
+
+#tabla2 {
+    float: left;
+    width: 50%;
+}
+
+#tabla3 {
+    float: left;
+    width: 33%;
+}
+
+#tabla4 {
+    float: left;
+    width: 50%;
+}
+
+#tabla5 {
+    float: left;
+    width: 50%;
+}
+
+#tabla6 {
+    float: left;
+    width: 100%;
+}
+
+#tabla7 {
+    float: left;
+    width: 25%;
+}
+
+#tabla8 {
+    float: left;
+    width: 100%;
+}
+
+#descrip {
+    font-size: 17px;
+    color: white;
+    text-align: justify;
+}
+
+#mision {
+    text-align: center;
+}
